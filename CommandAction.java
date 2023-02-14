@@ -1,7 +1,7 @@
 package command;
 import javax.servlet.http.*;
 public interface CommandAction {
-	//¸Þ¼­µå ¼±¾ð
+	//ì•ˆë…•í•˜ì„¸ìš”
 	public String requestPro(HttpServletRequest request, HttpServletResponse response) throws Throwable;
 	
 
