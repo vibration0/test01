@@ -17,3 +17,5 @@ Git
 
 github-프로젝트 만들기
 source tree -인증-계정추가-github
+
+스테이지 올리기-커밋하기전 코멘트 적기-커밋
